@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [mars](mars)
 
-- 🌱 I’m currently learning **java, dart, boostrap**
+- 🌱 I’m currently learning **at your heart**
 
 - 👯 I’m looking to collaborate on [mars](mars)
 
